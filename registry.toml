@@ -1,6 +1,6 @@
-name = "Uncurated"
-uuid = "c2463f1f-d711-5ace-9c99-4f745c283c7e"
-repo = "https://github.com/JuliaRegistries/Uncurated.git"
+name = "MyRegistry"
+uuid = "c2463f1f-d711-5ace-9c99-4f745c283c7q"
+repo = "https://github.com/vdayanand/MyRegistry.git"
 
 description = """
 Official uncurated Julia package registry where people can
